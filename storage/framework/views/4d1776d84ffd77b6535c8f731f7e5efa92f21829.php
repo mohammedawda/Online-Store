@@ -1,0 +1,1 @@
+<a href="<?php echo e(adminUrl('admin/'. $id .'/edit')); ?>" class="btn btn-info"><i class="fa fa-edit"></i></a>
